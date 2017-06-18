@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1497781060 source:/home/peteral/Dev/blocking-queue/main.cpp
+	<boost/test/unit_test.hpp>
+
